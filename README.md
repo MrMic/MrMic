@@ -1,9 +1,25 @@
-### #> MICHaEL CHLON PERSONAL REPOSITORY
+## #> MICHAEL CHLON PERSONAL REPOSITORY
 
 🔭 I’m currently working on ...
 
+### Full Stack Development:
+
 - **ANGULAR JS**
 - **DJANGO**
+- **FLUTTER MOBILE DEVELOPMENT**
+
+### DevOps / Infrastructure:
+
+- **DEVOPS / JENKINS**
+- **CLOUD: AWS / AZURE / GCP**
+- **TERRAFORM & ANSIBLE**
+
+And finally fond of:
+$> Doom emacs
+$> NeoVim
+$> XMonad Tiling Window Manager
+$> Part of Open Source Ecosystem since 1999
+
 
 <!--
 **MrMic/MrMic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
