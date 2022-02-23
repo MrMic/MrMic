@@ -8,17 +8,17 @@
 - **DJANGO**
 - **FLUTTER MOBILE DEVELOPMENT**
 
-### DevOps / Infrastructure:
+__### DevOps / Infrastructure:__
 
 - **DEVOPS / JENKINS**
 - **CLOUD: AWS / AZURE / GCP**
 - **TERRAFORM & ANSIBLE**
 
 And finally fond of:
-$> Doom emacs
-$> NeoVim
-$> XMonad Tiling Window Manager
-$> Part of Open Source Ecosystem since 1999
+- $> Doom emacs
+- $> NeoVim
+- $> XMonad Tiling Window Manager
+- $> Part of Open Source Ecosystem since 1999
 
 
 <!--
