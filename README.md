@@ -8,7 +8,7 @@
 - **DJANGO**
 - **FLUTTER MOBILE DEVELOPMENT**
 
-###__ DevOps / Infrastructure:__
+### __DevOps / Infrastructure:__
 
 - **DEVOPS / JENKINS**
 - **CLOUD: AWS / AZURE / GCP**
