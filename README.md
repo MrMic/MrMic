@@ -5,6 +5,10 @@
 ### Full Stack Development:
 
 - **ANGULAR JS**
+- **NEXT JS**
+- **NEST JS**
+- **NUXT JS**
+- **GATSBY / JAMSTACK**
 - **DJANGO**
 - **FLUTTER MOBILE DEVELOPMENT**
 
@@ -13,6 +17,8 @@
 - **DEVOPS / JENKINS**
 - **CLOUD: AWS / AZURE / GCP**
 - **TERRAFORM & ANSIBLE**
+- **NETWORK**
+- **SECURITY**
 
 And finally fond of:
 - $> Doom emacs
