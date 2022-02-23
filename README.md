@@ -1,4 +1,4 @@
-## #> MICHAEL CHLON PERSONAL REPOSITORY
+## #> MICHAEL CHLON PERSONAL ACTIVITIES / PROJETCS
 
 🔭 I’m currently working on ...
 
