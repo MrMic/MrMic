@@ -1,6 +1,7 @@
-### MICHEL CHLON PERSONAL REPOSITORY
+### #> MICHaEL CHLON PERSONAL REPOSITORY
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
+
 - **ANGULAR JS**
 - **DJANGO**
 
