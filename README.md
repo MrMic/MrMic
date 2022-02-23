@@ -1,6 +1,6 @@
-## #> MICHAEL CHLON PERSONAL ACTIVITIES / PROJECTS
+# -= MICHAEL CHLON PERSONAL ACTIVITIES / PROJECTS =-
 
-🔭 I’m currently working on ...
+#> 🔭 I’m currently working on ...
 
 ### Full Stack Development:
 
