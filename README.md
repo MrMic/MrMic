@@ -4,6 +4,8 @@
 
 ### Full Stack Development:
 
+- **RUST**
+- **GoLang**
 - **ANGULAR JS**
 - **NEXT JS**
 - **NEST JS**
