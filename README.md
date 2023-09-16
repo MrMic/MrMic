@@ -24,7 +24,7 @@
 
 And finally fond of:
 - $> Doom emacs
-- $> NeoVim
+- $> NeoVim - AstroNVim
 - $> XMonad Tiling Window Manager
 - $> Part of Open Source Ecosystem since 1999
 
