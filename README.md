@@ -1,6 +1,6 @@
 # MICHAEL CHLON PERSONAL ACTIVITIES / PROJECTS 
 
-- 🔭 I’m currently working on React Material UI / Flutter / Symfony / Rust / NestJS.
+- 🔭 I’m currently working on: React Material UI / Flutter / Symfony / Rust / NestJS.
 
 ### Full Stack Development:
 
