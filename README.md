@@ -7,11 +7,12 @@
 - **RUST**
 - **GoLang**
 - **ANGULAR JS**
-- **NEXT JS**
+- **React / NEXT JS**
 - **NEST JS**
 - **VueJS / NUXT JS**
 - **GATSBY / JAMSTACK**
 - **DJANGO**
+- **SYMFONY 6**
 - **FLUTTER MOBILE DEVELOPMENT**
 
 ### DevOps / Infrastructure:
@@ -28,6 +29,7 @@ And finally fond of:
 - $> XMonad Tiling Window Manager
 - $> Part of Open Source Ecosystem since 1999
 
+- 🔭 I’m currently working on React Material UI / Flutter / Symfony / Rust / NestJS.
 
 <!--
 **MrMic/MrMic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
