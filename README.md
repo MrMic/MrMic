@@ -9,7 +9,7 @@
 - **ANGULAR JS**
 - **NEXT JS**
 - **NEST JS**
-- **NUXT JS**
+- **VueJS / NUXT JS**
 - **GATSBY / JAMSTACK**
 - **DJANGO**
 - **FLUTTER MOBILE DEVELOPMENT**
