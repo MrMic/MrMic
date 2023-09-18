@@ -1,6 +1,6 @@
 # MICHAEL CHLON PERSONAL ACTIVITIES / PROJECTS 
 
-#> 🔭 I’m currently working on ...
+- 🔭 I’m currently working on React Material UI / Flutter / Symfony / Rust / NestJS.
 
 ### Full Stack Development:
 
@@ -29,7 +29,7 @@ And finally fond of:
 - $> XMonad Tiling Window Manager
 - $> Part of Open Source Ecosystem since 1999
 
-- 🔭 I’m currently working on React Material UI / Flutter / Symfony / Rust / NestJS.
+
 
 <!--
 **MrMic/MrMic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
