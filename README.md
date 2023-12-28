@@ -13,7 +13,7 @@
 - **GATSBY / JAMSTACK**
 - **DJANGO**
 - **SYMFONY 6**
-- **FLUTTER MOBILE DEVELOPMENT**
+- **MOBILE DEVELOPMENT: React Native / Flutter**
 
 ### DevOps / Infrastructure:
 
