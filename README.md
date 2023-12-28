@@ -6,6 +6,8 @@
 
 - **RUST**
 - **GoLang**
+- **HTML / CSS / JS**
+- **Bootstrap / TaiWindCSS**
 - **ANGULAR JS**
 - **React / NEXT JS**
 - **NEST JS**
