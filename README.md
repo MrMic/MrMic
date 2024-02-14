@@ -1,6 +1,6 @@
 # MICHAEL CHLON PERSONAL ACTIVITIES / PROJECTS 
 
-- 🔭 I’m currently working on: ReactNative / Flutter / Symfony 6 / Rust / VueJS 3.
+- 🔭 I’m currently working on: ReactNative / Flutter / NextJS / Rust / VueJS 3 / GitHub Actions / GitLab CI-CD.
 
 ### Full Stack Development:
 
