@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mchlon" target="blank"><img src="https://img.shields.io/twitter/follow/mchlon?logo=twitter&style=for-the-badge" alt="mchlon" /></a> </p>
 
-- 🔭 I’m currently working on **ReactNative / Flutter / NextJS / Rust / VueJS 3 / GitHub Actions / GitLab CI-CD.**
+- 🔭 I’m currently working on **Dev: ReactNative / Flutter / NextJS / Rust / VueJS 3 -=- DevOps: GitHub Actions / GitLab CI-CD.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
