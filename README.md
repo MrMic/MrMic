@@ -12,7 +12,7 @@
 + Dev:
 * ReactNative
 * Flutter
-* NextJS
+* NextJS 14
 * Rust
 * VueJS 3
 + DevOps:
