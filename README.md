@@ -15,6 +15,7 @@
 * NextJS 14
 * Rust
 * VueJS 3
+* Django / Python
 + DevOps:
 * GitHub Actions
 * GitLab CI-CD.
