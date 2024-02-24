@@ -18,7 +18,7 @@
 * Django / Python
 + DevOps:
 * GitHub Actions
-* GitLab CI-CD.
+* GitLab CI/CD.
 ```
 
 <h3 align="left">Connect with me:</h3>
