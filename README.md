@@ -18,7 +18,8 @@
 * Django / Python
 + DevOps:
 * GitHub Actions
-* GitLab CI/CD.
+* GitLab CI/CD
+* Docker / K8s
 ```
 
 <h3 align="left">Connect with me:</h3>
