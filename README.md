@@ -9,17 +9,19 @@
 
 - 🔭 I’m currently working on:
 ```diff
-+ Dev:
++ DEV:
 * ReactNative
 * Flutter
 * NextJS 14
 * Rust
 * VueJS 3
 * Django / Python
-+ DevOps:
++ DEVOPS:
 * GitHub Actions
 * GitLab CI/CD
 * Docker / K8s
++ TESTS:
+* Cypress
 ```
 
 <h3 align="left">Connect with me:</h3>
