@@ -16,7 +16,7 @@
 * Rust
 * VueJS 3
 * Django / Python
-+ DEVOPS:
++ DEVOPS / GitOps:
 * GitHub Actions
 * GitLab CI/CD
 * Docker / K8s
