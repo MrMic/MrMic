@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on:
 ```diff
 + DEV:
-* HTML / CSS / JS / TS
+* HTML / CSS / JS / TS / HTMX
 * ReactNative
 * Flutter
 * NextJS 14
