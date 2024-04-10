@@ -9,13 +9,11 @@
 
 - 🔭 I’m currently working on:
 ```diff
-+ DEV:
++ DEV FullStack:
 * HTML / CSS / JS / TS / HTMX
-* ReactNative
-* Flutter
-* NextJS 14
-* Rust
-* VueJS 3
+* ReactNative / Flutter
+* NextJS 14 / VueJS 3
+* Rust / Axum / Actix
 * Django / Python
 + DEVOPS / GitOps:
 * GitHub Actions
