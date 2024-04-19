@@ -12,7 +12,7 @@
 + DEV FullStack:
 * HTML / CSS / JS / TS / HTMX
 * ReactNative / Flutter
-* NextJS 14 / VueJS 3
+* NextJS 14 / VueJS 3 / Angular (17)
 * Rust / Axum / Actix
 * Django / Python
 + DEVOPS / GitOps:
