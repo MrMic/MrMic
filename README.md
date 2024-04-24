@@ -21,6 +21,9 @@
 * Docker / K8s
 + TESTS:
 * Cypress
++ SECURITY:
+* Semgrep
+* Snyk
 ```
 
 <h3 align="left">Connect with me:</h3>
