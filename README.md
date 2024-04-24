@@ -19,6 +19,7 @@
 * GitHub Actions
 * GitLab CI/CD
 * Docker / K8s
+* ArgoCD
 + TESTS:
 * Cypress
 + SECURITY:
