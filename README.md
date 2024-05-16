@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on:
 ```diff
-+ DEV FullStack:
++ DEV: FullStack / Mobile:
 * HTML / CSS / JS / TS / HTMX
 * ReactNative / Flutter
 * NextJS (14) / VueJS (3) / Angular (17)
