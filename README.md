@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Michaël CHLON</h1>
 <h3 align="center">Fan of Open Source since 1999</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrmic&label=Profile%20views&color=0e75b6&style=flat" alt="mrmic" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mrmic&label=Profile%20views&color=0e75b6&style=flat" alt="mrmic" /> 
+  [![wakatime](https://wakatime.com/badge/user/03b33305-4c46-47c2-aad0-ea5eb5d349c3.svg)](https://wakatime.com/@03b33305-4c46-47c2-aad0-ea5eb5d349c3)
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrmic" alt="mrmic" /></a> </p>
 
