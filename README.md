@@ -3,7 +3,7 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mrmic&label=Profile%20views&color=0e75b6&style=flat" alt="mrmic" /> 
-  [![wakatime](https://wakatime.com/badge/user/03b33305-4c46-47c2-aad0-ea5eb5d349c3.svg)](https://wakatime.com/@03b33305-4c46-47c2-aad0-ea5eb5d349c3)
+  <a href="https://wakatime.com/@03b33305-4c46-47c2-aad0-ea5eb5d349c3"><img src="https://wakatime.com/badge/user/03b33305-4c46-47c2-aad0-ea5eb5d349c3.svg" alt="Total time coded since May 2 2020" /></a>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrmic" alt="mrmic" /></a> </p>
