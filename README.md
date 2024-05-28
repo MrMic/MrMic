@@ -15,14 +15,14 @@
 + DEV: FullStack / Mobile:
 * HTML / CSS / JS / TS / HTMX
 * ReactNative / Flutter
-* NextJS (14) / VueJS (3) / Angular (17)
+* NextJS (14) / VueJS (3) / Angular (17 & 18)
 * Rust [ Axum | Actix ]
 * Django / Python
 + DEVOPS / DEVSECOPS / GitOps:
 * GitHub Actions
 * GitLab CI/CD
-* Docker / K8s
-* ArgoCD / Helm
+* Docker
+* K8s / ArgoCD / Helm
 + TESTS:
 * Cypress
 + SECURITY:
