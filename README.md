@@ -16,7 +16,7 @@
 * HTML / CSS / JS / TS / HTMX
 * ReactNative / Flutter
 * NextJS (14) / VueJS (3) / Angular (17 & 18)
-* Rust [ Axum | Actix ]
+* Rust [ Axum | Actix | SeaORM ]
 * Django / Python
 + DEVOPS / DEVSECOPS / GitOps:
 * GitHub Actions
