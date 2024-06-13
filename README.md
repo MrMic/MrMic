@@ -21,6 +21,7 @@
 + DEVOPS / DEVSECOPS / GitOps:
 * GitHub Actions
 * GitLab CI/CD
+* CircleCI
 * Docker
 * K8s / ArgoCD / Helm
 + TESTS:
