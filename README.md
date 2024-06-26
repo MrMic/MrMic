@@ -18,6 +18,7 @@
 * NextJS (14) / VueJS (3) / Angular (17 & 18)
 * Rust [ Axum | Actix | SeaORM ]
 * Django / Python
+* Laravel
 + DEVOPS / DEVSECOPS / GitOps:
 * GitHub Actions
 * GitLab CI/CD
