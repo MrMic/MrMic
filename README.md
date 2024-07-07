@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Michaël CHLON</h1>
-<h3 align="center">Fan of Open Source since 1999</h3>
+<h1 align="center">Michaël CHLON ongoing Projects</h1>
+<h3 align="center">Open Source Addict since 1999</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mrmic&label=Profile%20views&color=0e75b6&style=flat" alt="mrmic" /> 
