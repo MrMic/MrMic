@@ -25,6 +25,8 @@
 * CircleCI
 * Docker
 * K8s / ArgoCD / Helm
++ IA:
+* Machine Learning / ML: Python
 + TESTS:
 * Cypress
 + SECURITY:
