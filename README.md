@@ -26,6 +26,7 @@
 * Docker
 * K8s / ArgoCD / Helm
 + IA:
+* Computer Vision (OpenCV, NumPy)
 * Machine Learning / ML: Python
 + TESTS:
 * Cypress
