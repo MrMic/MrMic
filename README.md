@@ -27,6 +27,9 @@
 * CircleCI
 * Docker
 * K8s / ArgoCD / Helm
++ LOGGING / MONITORING:
+* ELK
+* Prometheus, Grafana
 + IA:
 * Computer Vision (OpenCV, NumPy)
 * Machine Learning / ML: Python
