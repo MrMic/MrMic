@@ -17,7 +17,7 @@
 + DEV: FullStack / Mobile:
 * HTML / CSS / JS / TS / HTMX
 * ReactNative / Flutter
-* NextJS (14) / VueJS (3) / Angular (17 & 18)
+* NextJS (14) / VueJS (3) / Angular (17 & 18) / Leptos ( RUST FullStack Framework )
 * Rust [ Axum | Actix | SeaORM ]
 * Django / Python
 * Laravel
