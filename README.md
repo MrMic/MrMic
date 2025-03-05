@@ -19,6 +19,7 @@
 * ReactNative / Flutter
 * NextJS (14) / VueJS (3) / Angular (17 & 18)
 * Rust [ Axum | Actix | SeaORM | Leptos ( FullStack FrameWork )]
+* Go
 * Django / Python
 * Laravel
 + DEVOPS / DEVSECOPS / GitOps:
