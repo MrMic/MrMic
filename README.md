@@ -22,6 +22,7 @@
 * Go
 * Django / Python
 * Laravel
+* Java: Spring / Spring Boot
 + DEVOPS / DEVSECOPS / GitOps:
 * GitHub Actions
 * GitLab CI/CD
