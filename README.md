@@ -16,13 +16,14 @@
 ```diff
 + DEV: FullStack / Mobile:
 * HTML / CSS / JS / TS / HTMX
+* Angular / React / VueJS
 * ReactNative / Flutter
 * NextJS (14) / VueJS (3) / Angular (17 & 18)
 * Rust [ Axum | Actix | SeaORM | Leptos ( FullStack FrameWork )]
 * Go
 * Django / Python
 * Laravel
-* Java: Spring / Spring Boot
+* Java: Spring / Spring Boot / Quarkus - GraalVM
 + DEVOPS / DEVSECOPS / GitOps:
 * GitHub Actions
 * GitLab CI/CD
