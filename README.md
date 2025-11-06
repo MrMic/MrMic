@@ -34,6 +34,7 @@
 * ELK
 * Prometheus, Grafana
 + IA:
+* RAG / MCP
 * Computer Vision (OpenCV, NumPy)
 * Machine Learning / ML: Python
 + TESTS:
