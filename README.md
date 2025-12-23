@@ -22,7 +22,7 @@
 * Rust [ Axum | Actix | SeaORM | Leptos ( FullStack FrameWork )]
 * Go
 * Django / Python
-* Laravel
+* Symfony / Laravel
 * Java: Spring / Spring Boot / Quarkus - GraalVM
 + DEVOPS / DEVSECOPS / GitOps:
 * GitHub Actions
