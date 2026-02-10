@@ -10,7 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/mchlon" target="blank"><img src="https://img.shields.io/twitter/follow/mchlon?logo=twitter&style=for-the-badge" alt="mchlon" /></a> </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMic&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![MrMic's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMic&show_icons=true&theme=radical)](https://github.com/MrMic)
+
 
 - 🔭 I’m currently working on:
 ```diff
