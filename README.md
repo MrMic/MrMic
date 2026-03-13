@@ -6,7 +6,11 @@
   <a href="https://wakatime.com/@03b33305-4c46-47c2-aad0-ea5eb5d349c3"><img src="https://wakatime.com/badge/user/03b33305-4c46-47c2-aad0-ea5eb5d349c3.svg" alt="Total time coded since May 2 2020" /></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrmic&theme=juicyfresh" alt="mrmic" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrmic&theme=juicyfresh" alt="mrmic" /></a> </p> -->
+
+<p align="left">
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@MrMic/b696de50-93cc-4b3f-9369-a5f6be598264.png" /></a>
+</p>
 
 <p align="left"> <a href="https://twitter.com/mchlon" target="blank"><img src="https://img.shields.io/twitter/follow/mchlon?logo=twitter&style=for-the-badge" alt="mchlon" /></a> </p>
 
