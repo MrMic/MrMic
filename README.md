@@ -43,10 +43,6 @@ Seasoned technology executive with a hands-on engineering culture. I architect a
 
 ## 📊 Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrMic&show_icons=true&theme=radical&hide_border=true" alt="MrMic's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMic&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="160" />
-</p>
 
 <img src="https://wakatime.com/share/@MrMic/f5e4c992-df94-4b18-af5a-1a38310c1053.png" alt="WakaTime weekly stats" />
 
