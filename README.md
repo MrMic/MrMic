@@ -1,6 +1,6 @@
 # Michaël CHLON · MrMic
 
-> CTO / CIO · Open Source addict since 1999
+> CTO / CIO · Open Source evangelist since 1999
 
 Seasoned technology executive with a hands-on engineering culture. I architect and lead the delivery of fast, secure, and scalable systems — from cloud-native infrastructure and DevSecOps pipelines to modern full-stack products. Currently focused on AI strategy, RAG pipelines, and MCP/Skills integration.
 
